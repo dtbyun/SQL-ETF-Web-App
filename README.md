@@ -76,5 +76,9 @@ sqlalchemy:
 <img width="157" alt="sqlalchemy" src="https://user-images.githubusercontent.com/107937930/185716778-df0e2583-636d-4f38-9b7f-9cc7c14d57ad.png">
 
 
+install voila:
+
+<img width="167" alt="Screen Shot 2022-08-19 at 6 04 25 PM" src="https://user-images.githubusercontent.com/107937930/185719639-bc5e10fb-5e60-4985-a1c6-54b66a2ebb54.png">
+
 
 ---
