@@ -1,5 +1,7 @@
 # Creating a Web Application for an ETF Analyzer
 
+This ETF performance analysis is designed to sharpen SQLite query abilities while evaluating the ETF's performance.
+
 ---
 
 # Technologies
