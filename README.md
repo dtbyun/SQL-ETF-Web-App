@@ -6,13 +6,13 @@ This ETF performance analysis is designed to sharpen SQLite query abilities whil
 
 # Technologies
 
-Python
+Python - Computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
 
-SQL
+SQLAlchemy - Is an open-source SQL library for Python. It's designed to ease the communication between Python-based programs and databases. 
 
-Voilà
+Voilà - A Python library that allows you to convert a Jupyter Notebook into an interactive dashboard that you can share with others.
 
-Jupyter Lab
+Jupyter Lab - The latest web-based interactive development enviornmental for notebooks, code, and data.
 
 ---
 
@@ -42,6 +42,12 @@ install voila:
 ---
 
 # Use
+
+To use this notebook open ETF_Web_App folder and select etf_analyzer.ipynb.
+
+The program is executed within a code editer, such as Jupyter Lab or Visual
+
+Studio Code (VSC) or similar compatible IDE, in order to function properly.
 
 Perform key database operations by using SQL.
 
