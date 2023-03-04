@@ -14,6 +14,8 @@ SQL - Structued Query Language is a programming language for storing and process
 
 Voilà - A Python library that allows you to convert a Jupyter Notebook into an interactive dashboard that you can share with others.
 
+hvPlot - A familiar and high-level API for data exploration and visualization.
+
 Jupyter Lab - The latest web-based interactive development enviornmental for notebooks, code, and data.
 
 ---
@@ -27,7 +29,6 @@ python:
 
 https://www.python.org/
 
-
 sqlalchemy:
 
 <img width="167" alt="Screen Shot 2022-08-19 at 6 04 25 PM" src="https://user-images.githubusercontent.com/107937930/185717696-12b20a41-de98-47bd-b794-99c277d74f23.png">
@@ -39,6 +40,11 @@ sqlalchemy:
 install voila:
 
 <img width="167" alt="Screen Shot 2022-08-19 at 6 04 25 PM" src="https://user-images.githubusercontent.com/107937930/185719639-bc5e10fb-5e60-4985-a1c6-54b66a2ebb54.png">
+
+install hvPlot:
+
+
+<img width="213" alt="Screenshot 2023-03-04 at 2 33 11 PM" src="https://user-images.githubusercontent.com/107937930/222927488-4618e233-9d99-4581-bc8f-45f72f49410f.png">
 
 ---
 
