@@ -10,6 +10,8 @@ Python - Computer programming language often used to build websites and software
 
 SQLAlchemy - Is an open-source SQL library for Python. It's designed to ease the communication between Python-based programs and databases. 
 
+SQL - Structued Query Language is a programming language for storing and processing information in a relational database.
+
 Voilà - A Python library that allows you to convert a Jupyter Notebook into an interactive dashboard that you can share with others.
 
 Jupyter Lab - The latest web-based interactive development enviornmental for notebooks, code, and data.
@@ -20,7 +22,6 @@ Jupyter Lab - The latest web-based interactive development enviornmental for not
 # Installation
 
 python:
-
 
 <img width="180" alt="Pythonversion" src="https://user-images.githubusercontent.com/107937930/185713885-d96744c1-423d-44cb-a16c-521a439c26cc.png">
 
